@@ -1,1 +1,1 @@
-# Projeto de aprendizado em React, React Native e utilizando mongoDB
+# Projeto de aprendizado em React, React Native e mongoDB 
